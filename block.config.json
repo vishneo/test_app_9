@@ -1,0 +1,8 @@
+{
+  "name": "test_app_9",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/vishneo/test_app_9",
+    "ssh": "git@github.com:vishneo/test_app_9.git"
+  }
+}
